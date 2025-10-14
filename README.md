@@ -9,7 +9,7 @@ Meu nome é José Lucas. 😁
 
   ##
 
-![José Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=JL540&show_icons=true&theme=gotham)
+![José Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=discipuloJL&show_icons=true&theme=gotham)
 
   ##
 
