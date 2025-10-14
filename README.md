@@ -1,6 +1,6 @@
 ## Olá, meu nome é José Lucas. Seja bem-vindo(a) ao meu portfólio! 😁
 
-- 📖 **Sou cristão**;
+- 📖 **Sou cristão, discípulo de JESUS CRISTO**;
 - 😄 No início do _aprendizado_;
 - 💻 Estudando _Full-stack development_;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: JavaScript | HTML | CSS
