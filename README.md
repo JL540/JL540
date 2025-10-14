@@ -1,4 +1,5 @@
-## Olá, seja bem-vindo(a) ao meu portfólio! Meu nome é José Lucas. 😁
+## Olá, seja bem-vindo(a) ao meu portfólio!
+Meu nome é José Lucas. 😁
 
 - 📖 **Sou cristão, discípulo de JESUS CRISTO**;
 - 😄 Estou no início do _aprendizado_;
