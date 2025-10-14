@@ -1,4 +1,4 @@
-## Olá, meu nome é José Lucas.
+## Olá, meu nome é José Lucas e sou um discípulo de Cristo Jesus.
 
 - 😄 Hoje, estou em busca de emprego;
 - 💻 Estudando **Full-stack development**;
