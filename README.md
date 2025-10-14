@@ -1,7 +1,6 @@
-## Bem-vindo(a) ao meu portfólio 😁
-## Me chamo José Lucas
+## Olá, meu nome é José Lucas e seja bem-vindo(a) ao meu portfólio 😁
 
-- 📖 **Sou cristão**;
+- 📖 **Meu nome é José Lucas e sou cristão**;
 - 😄 No início do _aprendizado_;
 - 💻 Estudando _Full-stack development_;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: JavaScript | HTML | CSS
