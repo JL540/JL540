@@ -1,7 +1,8 @@
-## Olá, meu nome é José Lucas e sou um discípulo de Cristo Jesus.
+## Bem-vindo(a) ao meu portfólio 😁
 
-- 😄 Hoje, estou em busca de emprego;
-- 💻 Estudando **Full-stack development**;
+- 📖 **Sou cristão**;
+- 😄 No início do _aprendizado_;
+- 💻 Estudando _Full-stack development_;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: JavaScript | HTML | CSS
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Python | Java (POO)
 
